@@ -1,0 +1,32 @@
+{
+  "name": "fshell",
+  "version": "0.0.1",
+  "description": "Simple portable mini shell",
+  "main": "fshell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fooeybar/fshell.git"
+  },
+  "keywords": [
+    "stdin",
+    "shell",
+    "terminal",
+    "process",
+    "stdout",
+    "cli",
+    "keypress",
+    "mini"
+  ],
+  "author": "fooeybar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fooeybar/fshell/issues"
+  },
+  "homepage": "https://github.com/Fooeybar/fshell#readme",
+  "dependencies": {
+    "fstdin": "^0.2.5"
+  }
+}
